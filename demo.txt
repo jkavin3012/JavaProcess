@@ -1,2 +1,2 @@
 i am java full stack developer
-frontend developer -git
+frontend developer -github
