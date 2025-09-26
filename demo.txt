@@ -2,3 +2,4 @@ i am java full stack developer
 
 backend developer - vscode
 backend developer - github process
+frontend developer - vscode
